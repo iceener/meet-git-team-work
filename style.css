@@ -1,0 +1,2 @@
+body { min-height: 100vh; margin: 0; padding: 0; background: #222; display: flex; justify-content: center; align-items: center; }
+img { max-width: 200px; height: 200px; }
